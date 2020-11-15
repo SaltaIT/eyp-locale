@@ -1,7 +1,7 @@
 {
   "name": "eyp-locale",
-  "version": "0.1.0",
-  "author": "eyp",
+  "version": "1.0.0",
+  "author": "Jordi Prats",
   "summary": "update locale / Debian only",
   "license": "Apache-2.0",
   "source": "",
